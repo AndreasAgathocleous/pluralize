@@ -448,6 +448,7 @@
     'music',
     'manga',
     'news',
+    'personnel',
     'pike',
     'plankton',
     'pliers',
